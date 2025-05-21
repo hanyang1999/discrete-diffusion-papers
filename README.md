@@ -1,5 +1,5 @@
 # discrete-diffusion-papers
-A collection of papers on discrete diffusion models
+A collection of papers on discrete diffusion models. An earlier great collection: [awesome-discrete-diffusion-models](https://github.com/kuleshov-group/awesome-discrete-diffusion-models)
 
 ## Table of Contents
 
@@ -9,7 +9,6 @@ A collection of papers on discrete diffusion models
   - [Unified Perspectives](#unified-perspectives)
   - [Other Topics](#other-topics)
   - [Post Training: Discrete-Time](#post-training-discrete-time)
-- [Citation](#citation)
 
 ---
 

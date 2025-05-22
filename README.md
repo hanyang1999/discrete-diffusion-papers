@@ -8,7 +8,7 @@ A collection of papers on discrete diffusion models. An earlier great collection
   - [Other Formulations](#other-formulations)
   - [Unified Perspectives](#unified-perspectives)
   - [Other Topics](#other-topics)
-  - [Post Training: Discrete-Time](#post-training-discrete-time)
+  - [Post Training](#post-training-discrete-time)
 
 ---
 
@@ -43,7 +43,7 @@ A collection of papers on discrete diffusion models. An earlier great collection
 
 - **2024.10** *Unlocking Guidance for Discrete State-Space Diffusion and Flow Models*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.13579)]
 
-### Post Training: Discrete-Time
+### Post Training
 
 - **2024.06** *Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models*, [[Paper](https://arxiv.org/abs/2406.01347)]
 - **2025.02** *Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods*, [[Paper](https://arxiv.org/abs/2502.01384)]

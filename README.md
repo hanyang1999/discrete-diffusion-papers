@@ -1,5 +1,5 @@
 # discrete-diffusion-papers
-A collection of papers on discrete diffusion models, which will be updated likely weekly. Feel free to submit a PR or raise an issue if you would like to add relevant papers which could better help the community!
+Find ![star](https://img.shields.io/badge/-★-4285f4?style=flat-square) [Gemini Diffusion](https://deepmind.google/models/gemini-diffusion/) amazing and interested in discrete diffusion? Here is a collection of papers on discrete diffusion models, which will be updated (likely) weekly or biweekly! Feel free to submit a PR or raise an issue if you would like to add relevant papers which could better help the community!
 
 **Proprietary Discrete Diffusion Models** - [Mercury](https://www.inceptionlabs.ai/introducing-mercury), [Gemini Diffusion](https://deepmind.google/models/gemini-diffusion/)
 

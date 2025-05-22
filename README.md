@@ -1,5 +1,7 @@
 # discrete-diffusion-papers
-A collection of papers on discrete diffusion models. An earlier great collection: [awesome-discrete-diffusion-models](https://github.com/kuleshov-group/awesome-discrete-diffusion-models)
+A collection of papers on discrete diffusion models, which will be updated likely weekly. Feel free to submit a PR or raise an issue if you would like to add relevant papers which could better help the community!
+
+**Other References**: Another earlier great collection: [awesome-discrete-diffusion-models](https://github.com/kuleshov-group/awesome-discrete-diffusion-models)
 
 ## Table of Contents
 

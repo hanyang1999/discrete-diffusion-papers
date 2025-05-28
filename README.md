@@ -40,7 +40,7 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 
 ### Unified Perspectives
 
-- **2024.10** *How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.11223)]
+- **2024.10** *How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.03601)]
 - **2024.10** *Generator Matching: Generative Modeling with Arbitrary Markov Processes*, ICLR 2025 (Oral) [[Paper](https://arxiv.org/abs/2410.12789)]
 
 ### Other Topics

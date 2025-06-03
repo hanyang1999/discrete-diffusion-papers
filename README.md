@@ -45,6 +45,10 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 - **2024.10** *How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.03601)]
 - **2024.10** *Generator Matching: Generative Modeling with Arbitrary Markov Processes*, ICLR 2025 (Oral) [[Paper](https://arxiv.org/abs/2410.12789)]
 
+### Unified Models
+
+- **2025.05** *FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities*, [[Paper](https://arxiv.org/abs/2505.20147)]
+
 ### Other Topics
 
 - **2024.10** *Unlocking Guidance for Discrete State-Space Diffusion and Flow Models*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.13579)]

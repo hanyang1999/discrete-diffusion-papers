@@ -37,6 +37,8 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 - **2024.07** *Discrete Flow Matching*, NeurIPS 2024 [[Paper](https://arxiv.org/abs/2407.12345)]
 - **2024.12** *Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective*, ICLR 2025 [[Paper](https://arxiv.org/abs/2412.06789)]
 - **2024.10** *Energy-Based Diffusion Language Models for Text Generation*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.09876)]
+- **2025.01** *Generalized Interpolating Discrete Diffusion*, ICML 2025 [[Paper](https://arxiv.org/pdf/2503.04482)|[Code](https://github.com/dvruette/gidd/)]
+
 
 ### Unified Perspectives
 

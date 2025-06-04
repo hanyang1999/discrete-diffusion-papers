@@ -27,7 +27,7 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 - **2024.10** *Scaling up Masked Diffusion Models on Text*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.18514)]
 - **2025.02** *Large language diffusion model (LLaDA)*, ICLR 2025 DeLTa Workshop [[Paper](https://arxiv.org/abs/2502.09992)]
 - **2025.03** *Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models*, ICLR 2025 [[Paper](https://arxiv.org/abs/2503.09573)]
-- **2025.03** *Dream 7B* (HKU NLP Group) [[Blog](https://hkunlp.github.io/blog/2025/dream/), | [Code](https://github.com/HKUNLP/Dream)]
+- **2025.03** *Dream 7B* (HKU NLP Group) [[Blog](https://hkunlp.github.io/blog/2025/dream/) | [Code](https://github.com/HKUNLP/Dream)]
 
 ### Other Formulations
 

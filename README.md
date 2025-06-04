@@ -34,9 +34,9 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 - **2021.02** *Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions*, NeurIPS 2021 [[Paper](https://arxiv.org/abs/2102.05379)]
 - **2022.05** *A Continuous Time Framework for Discrete Denoising Models*, NeurIPS 2022 [[Paper](https://arxiv.org/abs/2205.14987)]
 - **2023.10** *Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution*, ICML 2024 [[Paper](https://arxiv.org/abs/2310.16834)]
-- **2024.07** *Discrete Flow Matching*, NeurIPS 2024 [[Paper](https://arxiv.org/abs/2407.12345)]
-- **2024.12** *Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective*, ICLR 2025 [[Paper](https://openreview.net/pdf?id=uxDFlPGRLX)]
-- **2024.10** *Energy-Based Diffusion Language Models for Text Generation*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.09876)]
+- **2024.07** *Discrete Flow Matching*, NeurIPS 2024 [[Paper](https://arxiv.org/abs/2407.15595)]  
+- **2024.12** *Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective*, ICLR 2025 [[Paper](https://arxiv.org/abs/2412.03487)] 
+- **2024.10** *Energy-Based Diffusion Language Models for Text Generation*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.21357)]  
 - **2025.01** *Generalized Interpolating Discrete Diffusion*, ICML 2025 [[Paper](https://arxiv.org/pdf/2503.04482)|[Code](https://github.com/dvruette/gidd/)]
 
 

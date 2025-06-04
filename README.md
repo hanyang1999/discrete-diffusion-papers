@@ -51,7 +51,7 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 
 ### Other Topics
 
-- **2024.10** *Unlocking Guidance for Discrete State-Space Diffusion and Flow Models*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.13579)]
+- **2024.10** *Unlocking Guidance for Discrete State-Space Diffusion and Flow Models*, ICLR 2025 [[Paper](https://arxiv.org/abs/2406.01572)]
 
 ### Post Training
 

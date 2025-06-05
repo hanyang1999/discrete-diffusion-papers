@@ -30,7 +30,6 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 - **2025.02** *Large language diffusion model (LLaDA)*, ICLR 2025 DeLTa Workshop [[Paper](https://arxiv.org/abs/2502.09992)]
 - **2025.03** *Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models*, ICLR 2025 [[Paper](https://arxiv.org/abs/2503.09573)]
 - **2025.03** *Dream 7B* (HKU NLP Group) [[Blog](https://hkunlp.github.io/blog/2025/dream/) | [Code](https://github.com/HKUNLP/Dream)]
-- **2025.01** *Generalized Interpolating Discrete Diffusion*, ICML 2025 [[Paper](https://arxiv.org/pdf/2503.04482)|[Code](https://github.com/dvruette/gidd/)]
 
 
 ### Uniform Diffusion / Discrete Flow Matching
@@ -39,7 +38,8 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 - **2022.05** *A Continuous Time Framework for Discrete Denoising Models*, NeurIPS 2022 [[Paper](https://arxiv.org/abs/2205.14987)]
 - **2023.10** *Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution (SEDD-Uniform)*, ICML 2024 [[Paper](https://arxiv.org/abs/2310.16834)]
 - **2024.07** *Discrete Flow Matching*, NeurIPS 2024 [[Paper](https://arxiv.org/abs/2407.15595)]  
-- **2024.12** *Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective*, ICLR 2025 [[Paper](https://openreview.net/pdf?id=tcvMzR2NrP)] 
+- **2024.12** *Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective*, ICLR 2025 [[Paper](https://openreview.net/pdf?id=tcvMzR2NrP)]
+- **2025.01** *Generalized Interpolating Discrete Diffusion (GIDD)*, ICML 2025 [[Paper](https://arxiv.org/pdf/2503.04482)|[Code](https://github.com/dvruette/gidd/)]
 
 ### Unified Perspectives
 

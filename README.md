@@ -47,7 +47,7 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 - **2024.10** *Generator Matching: Generative Modeling with Arbitrary Markov Processes*, ICLR 2025 [[Paper](https://arxiv.org/abs/2410.12789)]
 
 ### Unified Models
-
+- **2025.05** *MMaDA: Multimodal Large Diffusion Language Models*, [[paper](https://arxiv.org/abs/2505.15809)]
 - **2025.05** *FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities*, [[Paper](https://arxiv.org/abs/2505.20147)]
 
 ### Guidance

@@ -59,3 +59,7 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 - **2024.06** *Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models*, [[Paper](https://arxiv.org/abs/2406.01347)]
 - **2025.02** *Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods*, [[Paper](https://arxiv.org/abs/2502.01384)]
 - **2025.04** *d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning*, [[Paper](https://arxiv.org/abs/2504.12216)]
+
+### Application
+
+- **2024.10** *Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion*, [[Paper](https://arxiv.org/pdf/2408.05636v4)]

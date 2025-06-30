@@ -62,4 +62,5 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 
 ### Application
 
+- **2023.12** *GraphGPT: Generative Pre-trained Graph Eulerian Transformer*, [[Paper](https://arxiv.org/pdf/2401.00529)]
 - **2024.10** *Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion*, [[Paper](https://arxiv.org/pdf/2408.05636v4)]

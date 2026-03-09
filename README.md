@@ -30,6 +30,7 @@ Find :small_blue_diamond: Gemini Diffusion amazing and interested in discrete di
 - **2025.02** *Large language diffusion model (LLaDA)*, ICLR 2025 DeLTa Workshop [[Paper](https://arxiv.org/abs/2502.09992)]
 - **2025.03** *Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models*, ICLR 2025 [[Paper](https://arxiv.org/abs/2503.09573)]
 - **2025.03** *Dream 7B* (HKU NLP Group) [[Blog](https://hkunlp.github.io/blog/2025/dream/) | [Code](https://github.com/HKUNLP/Dream)]
+- **2025.05** *LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models*, [[Paper](https://arxiv.org/pdf/2505.19223)]
 - **2025.09** *Planner Aware Path Learning in Diffusion Language Models Training* (PAPL), ICLR 2026 [[Paper](https://arxiv.org/pdf/2509.23405)]
 
 
